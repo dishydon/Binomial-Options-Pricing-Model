@@ -4,10 +4,6 @@ This is a python program to price American and European Options using the Binomi
 ## Getting Started
 This model is not meant to be used to trade real options but it is a good starting point to learn about implementing options pricing in Python. 
 
-If you would like to use it for development or to integrate it into your own model, either clone or download it. 
-
-```
-git clone https://github.com/VivekPa/BinomialOptModel
 ```
 
 
